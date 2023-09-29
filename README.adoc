@@ -1,0 +1,17 @@
+= hr4rs
+:toc: auto
+
+Prints horizontal rules. Rust port of https://github.com/shyguys/hr.
+
+== Setup
+
+tbc
+
+== Usage
+
+Please refer to the script's usage by running:
+
+[source, shell]
+----
+hr4rs --help
+----
